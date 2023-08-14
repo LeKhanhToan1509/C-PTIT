@@ -1,0 +1,1 @@
+{"name":"Local: CPP0110_maSoQuocGia","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP0110_maSoQuocGia.cpp","tests":[{"id":1691985113191,"input":"3\n123084567\n3300478808445\n1084","output":"123567\n3300478845\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP0110_maSoQuocGia.cpp","group":"local","local":true}

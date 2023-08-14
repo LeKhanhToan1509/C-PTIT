@@ -1,0 +1,1 @@
+{"name":"Local: sum1ForN","url":"c:\\C++\\c++\\Code C++ PTIT\\sum1ForN.cpp","tests":[{"id":1691981657177,"input":"3\n1000000\n1\n2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\sum1ForN.cpp","group":"local","local":true}
