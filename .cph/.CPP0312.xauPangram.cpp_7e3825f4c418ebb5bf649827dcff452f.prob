@@ -1,0 +1,1 @@
+{"name":"Local: CPP0312","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP0312.xauPangram.cpp","tests":[{"id":1692082660550,"input":"2\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n4\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n24","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP0312.xauPangram.cpp","group":"local","local":true}

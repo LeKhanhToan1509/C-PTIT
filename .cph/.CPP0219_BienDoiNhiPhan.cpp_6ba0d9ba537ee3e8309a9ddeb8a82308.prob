@@ -1,0 +1,1 @@
+{"name":"Local: CPP0219_BienDoiNhiPhan","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP0219_BienDoiNhiPhan.cpp","tests":[{"id":1692075398785,"input":"2\n2 3\n0 0 0 \n0 0 1\n3 4\n1 0 0 1 \n0 0 1 0 \n0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP0219_BienDoiNhiPhan.cpp","group":"local","local":true}
