@@ -1,0 +1,1 @@
+{"name":"Local: CPP0334","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP0334.cpp","tests":[{"id":1692210917885,"input":"4\n1abc23\ngeeks4geeks\n1abc2x30yz671231231233123\n123abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP0334.cpp","group":"local","local":true}
