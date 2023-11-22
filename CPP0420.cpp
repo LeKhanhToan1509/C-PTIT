@@ -21,7 +21,7 @@ int main(){
         for(int x : a){
             cout<<x<<" ";
         }
-        cout<<endl;
+        cout<<endl; 
     }
 
 }

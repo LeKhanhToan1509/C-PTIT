@@ -8,21 +8,26 @@ int main(){
     while(t--){
         string s;
         cin>>s;
-        for(int i = 0; i <= s.size()-3; i++){
+        int cnt = 0;
+        int len = 0;
+        int m = 0;
+        for(int i = s.size() - 1; i >= 0; i--){
+            if(s[i] == '0'){
+                cnt++;
+            }
             if(s[i] == '1'){
-                if(s[i+1] == '0' && s[i+2] == '0'){
-                    for(int j = i; j <= i+2; j++){
-                        s[j] = ' ';
-                    }
+                cnt-=2;
+                len+=3;
+                if(cnt >= 0){
+                    m = max(m, len);  
                 }
+                if(cnt < 0){
+                    cnt = 0;
+                    len = 0;
+                }
+                
             }
         }
-        stringstream ss(s);
-        string tmp;
-        while(ss >> tmp){
-            cout<<tmp;
-        }
-        cout<<endl;       
+        cout<<m<<endl;
     }
-
 }

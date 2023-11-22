@@ -1,0 +1,1 @@
+{"name":"Local: CPP338","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP338.cpp","tests":[{"id":1692624492569,"input":"2\nabc\n2\naba\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP338.cpp","group":"local","local":true}

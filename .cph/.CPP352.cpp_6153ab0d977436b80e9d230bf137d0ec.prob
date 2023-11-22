@@ -1,0 +1,1 @@
+{"name":"Local: CPP352","url":"c:\\C++\\c++\\Code C++ PTIT\\CPP352.cpp","tests":[{"id":1692631212229,"input":"4\n    nGUYEn    quaNG   vInH  \n   tRan   thi THU    huOnG\n   nGO   quoC  VINH\n lE            tuAn    aNH","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\c++\\Code C++ PTIT\\CPP352.cpp","group":"local","local":true}

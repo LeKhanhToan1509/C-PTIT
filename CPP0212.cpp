@@ -26,7 +26,7 @@ int main(){
         long long sum = 0;
         for(int i = 0; i < n; i++){
             long long res = binPow(x, i);
-            sum = sum + a[i]*res;
+            sum = sum + (a[i]%mod)*res;
             sum%=mod;
         }
         cout<<sum<<endl;
